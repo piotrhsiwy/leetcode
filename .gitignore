@@ -1,4 +1,10 @@
+# C
 *.out
 *.o
 *.ccls
 *.ccls-cache/*
+
+# JS, TS
+node_modules/*
+package-lock.json
+package.json
